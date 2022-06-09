@@ -1092,7 +1092,7 @@ body {
 .is-open .choices__list--dropdown, .is-open .choices__list[aria-expanded]{
   background-color: var(--color-white);
   animation: fade 0.5s ease-in-out;
-    animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
   }
 
   @keyframes fade {
